@@ -7,7 +7,7 @@ toplevel: Fiction
 ---
 <h5>A Place To Imagine The Implications</h5>
 <ul>
-  <li><a href="/fiction/joining-community/">Joining Community</li>
+  <li><a href="/fiction/joining-community/">Joining Community</a></li>
 </ul>
 
 
