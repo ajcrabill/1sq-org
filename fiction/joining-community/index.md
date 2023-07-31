@@ -6,7 +6,7 @@ toplevel: Fiction
 toplevellink: /fiction
 ---
 
-<quote>
+<blockquote>
 <h4>A 1SQ-inspired Short Story</h4>
 I sat down as she directed, not sure where this was going. None of her cryptic messages made sense and I was beginning to lose patience. As if reading my mind, she patted my hand in an effort at reassurance, and smiled gently, though with an unexpected hint of sadness. “I’ll explain everything,” she said, “but I only promise explanations. Nothing else.” 
 
@@ -46,4 +46,4 @@ When observed as a whole, the human society exhibits what is best described as a
 
 In practice, the most efficient route out of societal-wide survival priority status is to elevate the majority of the population beyond survival priority as the dominant daily expression. That is not yet true of humans. Paradoxically, survival priority is absolutely required to reach early levels of societal development but will also prevent societies from surviving later in their development.  Human society is currently within that threshold. In the last 100 years, the likelihood of societal destruction by societal means has eclipsed in likelihood the likelihood of societal destruction by non-societal means.”
 
-</quote>
+</blockquote>

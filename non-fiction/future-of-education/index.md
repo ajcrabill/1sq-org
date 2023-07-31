@@ -6,7 +6,7 @@ toplevel: Non-Fiction
 toplevellink: /non-fiction
 ---
 
-<quote>
+<blockquote>
 <h4>A 1SQ-inspired Policy Brief About Education</h4>
 The trajectory of public education in the US isn't slightly misaligned without our long-term interests; there is significant non-alignment and, left unchecked, will generate consequences from which we likely don't recover. If this sounds alarmist, you are missing the signs that futurists -- from Ray Dalio to Elon Musk to Warren Buffet to Will MacAskill -- are pointing toward. The school boards of the 14,000 school systems across the US need more effective governance not just because our children deserve a quality education, but because our society relies on it. 
 
@@ -103,4 +103,4 @@ Effective at enactment, citizenship is required to be in the first 10 seats in t
 
 
 
-</quote>
+</blockquote>
