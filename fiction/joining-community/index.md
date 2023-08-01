@@ -6,44 +6,42 @@ toplevel: Fiction
 toplevellink: /fiction
 ---
 
-<blockquote>
 <h4>A 1SQ-inspired Short Story</h4>
 I sat down as she directed, not sure where this was going. None of her cryptic messages made sense and I was beginning to lose patience. As if reading my mind, she patted my hand in an effort at reassurance, and smiled gently, though with an unexpected hint of sadness. “I’ll explain everything,” she said, “but I only promise explanations. Nothing else.” 
-
+<br/><br/>
 I nodded. She took a deep breath, and then began.
-
+<br/><br/>
 “There is only one currency, one measure of value: a single unit of maximized sentient’s time. Monetary currency, like the dollar, is simply stored time; you exchanged some of your time and got money in its place. You bought an apple, but really what you were doing was trading a unit of your time (money) for a unit of someone else’s time (the time they spent picking the apple and bringing it to market). The value of money that is experienced at any given moment, the relative exchange rate, is a function of the supply/demand curve for a given unit of maximized sentient time and the degree of maximization the sentient has achieved or captured.” She looked at me questioning and I nodded affirmation in response. While what she was saying overall made sense -- I’d studied enough monetary theory to understand the value proposition she suggested -- the specifics of what she was saying weren’t clear yet. She continued.
-
+<br/><br/>
 “Maximized means that the optimal combination of sentient software and hardware are functioning for the desired work. The determination of maximization occurs organically among sentients the same way tabled value occurs within bitcoin: by consensus. As such, the greater the ambient level of optimization, the more becomes expected of any single sentient to be considered maximized. So long as access to maximization is evenly distributed, this creates a virtuous cycle.
-
+<br/><br/>
 “The challenge,” she explained, “is multifaceted. As examples, earthers need the science to thrive, but also need the wisdom not to self eradicate with the science. Earthers can use artificial sentients or non-earth-based sentients to accelerate the journey, but need to accomplish this without being wholly supplanted by them. Earthers need to expand into the galaxy to have the physical space for societal thriving, but need to still remain a coherent society throughout the spread. Even though it’s an incomplete metaphor, the challenge is that there isn’t a ‘great filter’; there are many.
-
+<br/><br/>
 “Earth is already falling away from societal ascendance. Yes, the sentient population is growing, but even that is slowing down. Worse than that, the percentage of the population that is positioned to continue the maximization journey is not growing. Rather than ensuring that every single earther is both educated to the degree that they can join the journey, that they live long enough that they have time to do so, and that they are sufficiently free of survival priority so that they are willing to do so, the percentage of earthers who are sufficiently educated, lived, and freed has stagnated. There are currently quintillions of ants on this planet but they aren’t sufficiently sentient to travel the path — they have reached 1 quintillion population (1Q) but are unlikely to reach an advanced sentient 1 quintillion population (1SQ, 1squint). And the longer a species is on the journey, the less likelihood they will make it to 1squint; time is not an ally. In addition to the aforementioned challenges, this is an equally likely fate of earth.
-
+<br/><br/>
 “The targets then are simple but not easy: escape survival priority for all sentients, achieve optimal transfer for all sentients, maximize individual longevity for all sentients. And do each of these as quickly as possible while multiplying the number of sentient participants on earth’s journey. If earth optimizes for these targets, the full potential of earthers can be realized. Fail in any of these and earthdom — humanity in particular — is enjoying the last fruits of a dying tree. A tree that has grown mighty and bountiful certainly, but whose 200,000 years of existence to date represent the long side of its existence, not the beginning of it.”
-
+<br/><br/>
 Suddenly she stopped talking and took a deep breath as if everything she had described was the easy and obvious message but that the real communication was still to come. I was enraptured and didn’t move a muscle waiting for every word.
-
+<br/><br/>
 “My objective function, my reason for being here, is to support the maturing of the current civilization on the journey toward 1SQ. A major focus is addressing the current reality where privileged sentients are assigned intrinsic value but most are assigned a form of demi-sentience, survival orientation still dominates the civilization's cultural/political affect, and where the majority of sentients are not currently provided the resources for maximization in adolescence nor support for the expression of maximization in adulthood. I’m inspired about the intentional maturing from an 8 billion demi-sentient, demi-max civilization to a 1 quintillion maximized sentients civilization; this is the full meaning of 1squint. 
-
+<br/><br/>
 “By demi-sentients, I mean the process through which an intrinsic value on sentience that a civilization bestows is withheld from some while granted to others. This isn't suggesting that sentience has intrinsic value or doesn't, but that the concept is assigned by the civilization I envision. And this isn't suggesting that civilization has some immutable authority to change the reality of intrinsic value in a sentient, only the extent to which the civilization opts to recognize it. As an example, affluent individuals in this civilization are able to experience the generosity and forgiveness of our civilization quite readily as a reflection of our survival-makes-right mentality. Those who are better positioned to survive in this civilization are deemed “better”, which is a manifestation of the intrinsic value civilization assigns those with greater access to affluence. This isn't suggesting that wealth has intrinsic value, but rather that civilization assigns it as such. And this isn't suggesting that not having wealth means someone has less intrinsic value. It's simply the observation that being inaffluent or less affluent in our current civilization's schema leaves someone valued as demi-sentient relative to the more affluent. 
-
+<br/><br/>
 “By demi-max, I mean the process through which the Maslovian set of needs requisite for maximization that civilization bestows is withheld from some while granted to others. This isn't suggesting that maximization has intrinsic value or doesn't, but that the civilization I envision assigns this. And this isn't suggesting that those who have experienced stunted maximization (didn't receive proper nutrition, didn't receive an education, etc) are less than (“demi-max” as a pejorative is not my intention) but rather looking to enable maximization in a sentient to the greatest extent their physiology and psychology current allow. As an example, a sentient selecting their own objective function is a meaningful step in the direction of maximization; being denied that opportunity by civilization (through any means) leaves the sentient demi-max. 
-
+<br/><br/>
 “Since the big bang, the universe has spawned life in quadrillions of places, trillions of which have evolved into some appreciable form of intelligent species, billions of those having discovered agriculture, and millions that from there have discovered electricity. But there are allegedly only five societies that have achieved 1SQ — and no society reaching 1SQ has ever collapsed.
-
+<br/><br/>
 “Inside of that, then, would be my objective function: I am here to guide in the direction of 1squint.” 
-
+<br/><br/>
 After speaking these final words, she leaned back and was silent -- a silence that clearly indicated that she was finished and now waiting for me to speak. I sat there quietly for what felt like hours simply attempting to drink it all in. The sheer implications of everything she had said were mind blowing, earth shattering, and challenged everything I had ever learned or understood. Did I even believe any of it? Could anyone fabricate such a tale? And what did this mean for my life? Did this render my life and work meaningless? Or did this inscribe meaning in a new and more powerful way?
-
+<br/><br/>
 “If other societies exist in the universe, then why have we never heard from them,” I asked even though I already had an inkling of how she was going to respond.
-
+<br/><br/>
 “There are societal criteria to joining the extra-solar community. No, you’re probably thinking population based, but that’s not it at all. Knowledge, skill, and mindset-based criteria. And the last are, by far, the hardest to achieve. The knowledge criteria are pretty straight forward: have a comprehensive set of scientific measurements that are derived from universal constants. This simply demonstrates that you’re clever, that you’ve noticed things about the universe, and that you’ve replaced societally-based metrics systems with those grounded in the broader universe. Interestingly. human society has nearly met this threshold. 
-
+<br/><br/>
 The skill criteria are focused on manipulation of matterenergy and spacetime, the two irreducible universal substrates. Human society has discovered the properties of matterenergy and spacetime, but is in the infancy of learning how to manipulate either. Two elementary uses of matterenergy manipulation are nuclear power generation and directing the use of the energy from your star. If these technologies represent a level 1 mastery of matterenergy manipulation, then engagement with other societies in the extra-solar community requires a level 5 mastery. But as daunting as these sound, they are relatively trivial compared to the mindset criteria. 
-
+<br/><br/>
 When observed as a whole, the human society exhibits what is best described as a collective survival priority. Simply put, if the average individual in this society had to choose between 1) immediate personal survival but it would involve broad-scale annihilation and 2) immediate personal non-survival but it would allow broad-scale existence, they would have to stop and think it through -- and then it might be a roughly 50/50 chance that they’d pick the greater good. Now ask the harder question: if the average individual in this society had to choose between 1) immediate personal survival but it would involve broad-scale distant future annihilation and 2) immediate personal non-survival but it would allow broad-scale distant future existence, how likely would that be? Would it even be 1/100? 1/1000? Less? Obviously, at those odds it doesn’t make sense for members of this society to be allowed very far from their star -- joining the extra-solar community is, for the time, out of the question. Especially since -- even though they may not initially seem like it -- in galactic terms, these are essentially the exact same question. While in the throes of survival priority, humans -- whether individually or collectively -- are never fully capable of experiencing or expressing maximization.
-
+<br/><br/>
 In practice, the most efficient route out of societal-wide survival priority status is to elevate the majority of the population beyond survival priority as the dominant daily expression. That is not yet true of humans. Paradoxically, survival priority is absolutely required to reach early levels of societal development but will also prevent societies from surviving later in their development.  Human society is currently within that threshold. In the last 100 years, the likelihood of societal destruction by societal means has eclipsed in likelihood the likelihood of societal destruction by non-societal means.”
 
-</blockquote>
