@@ -8,13 +8,13 @@ body {
 }
 
 a {
-  color: #39c; /* #2596be */
+  color: #2596be;
   text-decoration: none;
 }
 
 a:hover {
-  color: #333;  /* #e76668 */
-  text-decoration: underline;
+  color: #e76668;
+  text-decoration: none;
 }
 
 h1,
@@ -72,7 +72,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #eee;
+  background: #fff;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -100,7 +100,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 60px;
+  max-height: 80px;
 }
 
 /*--------------------------------------------------------------
@@ -122,7 +122,6 @@ h6 {
 .get-started-btn:hover {
   background: #111111;
   color: #fff;
-  text-decoration: none;
 }
 
 @media (max-width: 992px) {
@@ -360,7 +359,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/slrp-hero.png") top center no-repeat;
+  background: url("../img/sofg-hero-bg.png") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 82px;
@@ -378,7 +377,7 @@ h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 40px;
+  font-size: 56px;
   font-weight: 700;
   color: #fff;
 }
@@ -386,14 +385,7 @@ h6 {
 #hero h2 {
   color: #fff;
   margin: 10px 0 0 0;
-  font-size: 30px;
-  font-weight: bold;
-}
-
-#hero h4 {
-  color: #ccc;
-  margin: 10px 0 0 0;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 #hero .btn-get-started {
@@ -402,11 +394,11 @@ h6 {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 40px;
+  padding: 10px 30px;
   border-radius: 4px;
   transition: 0.5s;
-  margin: 20px; 
-  color: #fff; 
+  margin-top: 30px;
+  color: #fff;
   background: #2596be;
   border: 2px solid #2596be;
 }
@@ -437,6 +429,29 @@ h6 {
     height: 120vh;
   }
 }
+
+/* PHONE OR TABLET IN PORTRAIT */
+@media screen and (orientation: portrait) and (min-width: 0px) and (max-width:1000px) { 
+  #hero .col-xl-auto { padding-top:10px; }
+  #hero h1 { font-size: 30px; }
+}
+
+/* PHONE OR TABLET IN LANDSCAPE */
+@media screen and (orientation: landscape) and (min-width: 0px) and (max-width:1000px) {  
+  #hero .col-xl-auto { padding-top:20px; }
+  #hero h1 { font-size: 30px; }
+}
+
+/* DESKTOP OR LAPTOP */
+@media screen and (min-width: 1001px) and (max-width:1600px) {      
+
+}
+
+/* WIDESCREEN DESKTOP OR LAPTOP */
+@media (min-width: 1600px){      
+
+}
+
 
 /*--------------------------------------------------------------
 # Sections General
@@ -498,7 +513,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #069;
+  background: #fff;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -1965,12 +1980,12 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #069;
+  background: #fff;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #069;
+  background: #fff;
 }
 
 #footer .footer-top .footer-contact {
@@ -2123,13 +2138,21 @@ section {
   text-decoration: none;
 }
 
-.footer-contact .email-addresses a, .footer-contact .email-addresses a:visited {
-  color: #0c9;
-}
+.partnerCell { width:300px; text-align:center; float:left; padding:20px; align-self:flex-end; }
 
-.footer-contact .email-addresses a:hover {
-  color:#999;
-}
+.teamCell { width:200px; text-align:center; float:left; padding:20px; }
+
+.otherCell { width:400px; }
+
+.defTitle { font-weight:bold; }
+
+.childLink {display:inline-block;padding-left:50px}
+
+.grandchildLink {display:inline-block;padding-left:100px}
+
+.screenshot {border-style:solid;border-width:1px;border-color:#000;width:500px; background-color:#ccc;}
 
 
-.inner-page .container .get-started-btn a:hover { background-color:#666; }
+footer .container .row { background-color: #111; padding: 15px; border-radius: 15px;} 
+.breadcrumbs .container { background-color: #333; padding: 15px; border-radius: 15px;}
+.copyright { color: #999; }
