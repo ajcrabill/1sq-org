@@ -2,7 +2,7 @@
 layout: base
 title: "Non-Fiction Ideas About 1SQint"
 summary: "A place to contemplate implementation."
-toplevel: Fiction
+toplevel: Non-Fiction
 # toplevellink: /framework
 ---
 <h5>A Place To Contemplate Implementation</h5>
