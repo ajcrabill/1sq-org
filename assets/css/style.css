@@ -409,6 +409,8 @@ h6 {
   border-color: #fff;
 }
 
+#hero center { background-color:#666; }
+
 @media (max-width: 768px) {
   #hero {
     text-align: center;
