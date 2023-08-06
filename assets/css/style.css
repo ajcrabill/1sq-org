@@ -409,7 +409,12 @@ h6 {
   border-color: #fff;
 }
 
-#hero center { background-color:#666; }
+#hero center { 
+  background-color:#666;
+  opacity: .5; 
+  border-radius: 4px;
+  padding: 10px;
+}
 
 @media (max-width: 768px) {
   #hero {
