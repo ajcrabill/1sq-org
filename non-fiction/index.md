@@ -1,11 +1,11 @@
 ---
 layout: base
-title: "Non-Fiction Ideas About 1SQint"
+title: "Contemplating 1SQuint Implementation"
 summary: "A place to contemplate implementation."
 toplevel: Non-Fiction
 # toplevellink: /framework
 ---
-<h5>A Place To Contemplate Implementation</h5>
+<h5>Submissions</h5>
 <ul>
   <li><a href="/non-fiction/future-of-education/">Future of Education</a></li>
 </ul>

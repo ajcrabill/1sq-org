@@ -5,8 +5,7 @@ summary: "A fictional story about a real future"
 toplevel: Fiction
 toplevellink: /fiction
 ---
-
-<h4>A 1SQ-inspired Short Story</h4>
+<h5>A 1SQ-inspired Short Story</h5>
 I sat down as she directed, not sure where this was going. None of her cryptic messages made sense and I was beginning to lose patience. As if reading my mind, she patted my hand in an effort at reassurance, and smiled gently, though with an unexpected hint of sadness. “I’ll explain everything,” she said, “but I only promise explanations. Nothing else.” 
 <br/><br/>
 I nodded. She took a deep breath, and then began.

@@ -5,9 +5,7 @@ summary: "A set of policy ideas for a real future"
 toplevel: Non-Fiction
 toplevellink: /non-fiction
 ---
-
-
-<h4>A 1SQ-inspired Policy Brief About Education</h4>
+<h5>A 1SQ-inspired Policy Brief About Education</h5>
 The trajectory of public education in the US isn't slightly misaligned without our long-term interests; there is significant non-alignment and, left unchecked, will generate consequences from which we likely don't recover. If this sounds alarmist, you are missing the signs that futurists -- from Ray Dalio to Elon Musk to Warren Buffet to Will MacAskill -- are pointing toward. The school boards of the 14,000 school systems across the US need more effective governance not just because our children deserve a quality education, but because our society relies on it. 
 <br/><br/>
 1squint offers a perspective into what's at stake and what it will take to address it. These are distant future predictions based on past and present evidence so by definition, they are inaccurate. I share them, nevertheless, because the potential cost of these predictions only being 1% accurate and us not acting on that 1%, is great enough to overwhelm my ego's reluctance to share ideas that won't be entirely accurate.
