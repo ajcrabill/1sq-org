@@ -6,9 +6,9 @@ toplevel: Main
 ---
 
 <h4><strong>Maybe societal progress hinges on the sum of our collective struggles and aspirations.<br/>
-Maybe we can infuence that progress by having each sentient in our society maximize their contribution.<br/>
-Maybe the destiny of our society requires an astronomically large number of fully maximized sentients.<br/>
-Would it take 1 billion maximized sentients? 1 trillion? 1 quadrillion? Maybe even 1 <i>quint</i>illion?
+Maybe we can infuence that progress by having each sapiosentient in our society maximize their contribution.<br/>
+Maybe the destiny of our society requires an astronomically large number of fully maximized sapiosentients.<br/>
+Would it take 1 billion maximized sapiosentients? 1 trillion? 1 quadrillion? Maybe even 1 <i>quint</i>illion?
 </strong></h4><br/>
 
 <h4>This is a thought experiment about the future of Earth society. Join the conversation.</h4><br/>
