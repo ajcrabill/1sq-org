@@ -8,6 +8,6 @@ toplevel: Non-Fiction
 <h5>Posts</h5>
 <ul>
   <li><a href="/non-fiction/future-of-education/">Future of Education</a></li>
-  <li><a hrefe="https://www.youtube.com/watch?v=LeNbKLl88-0">Public Education's Role in Maximization, Collectivism, and Survival Priority</a></li>
+  <li><a href="https://www.youtube.com/watch?v=LeNbKLl88-0">Public Education's Role in Maximization, Collectivism, and Survival Priority</a></li>
 </ul>
 
