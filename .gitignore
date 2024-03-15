@@ -4,3 +4,12 @@ _includes/footer.html
 .gitignore
 non-fiction/.DS_Store
 .gitignore
+.DS_Store
+assets/.DS_Store
+fiction/.DS_Store
+.gitignore
+resources/.DS_Store
+.DS_Store
+assets/.DS_Store
+fiction/.DS_Store
+resources/.DS_Store
