@@ -306,3 +306,115 @@ footer a:hover,
 ::-webkit-scrollbar-track { background: #07090f; }
 ::-webkit-scrollbar-thumb { background: rgba(82,201,122,0.3); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(82,201,122,0.55); }
+
+/* ── Subpage: Breadcrumbs ── */
+.breadcrumbs {
+  background: #0a0c13 !important;
+  border-bottom: 0.5px solid rgba(255,255,255,0.06) !important;
+  padding: 28px 0 22px !important;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 12px;
+}
+
+.breadcrumbs ol li {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  color: rgba(255,255,255,0.3);
+}
+
+.breadcrumbs ol li a {
+  color: rgba(82,201,122,0.65) !important;
+  text-decoration: none;
+}
+
+.breadcrumbs ol li a:hover {
+  color: #52c97a !important;
+}
+
+.breadcrumbs ol li + li::before {
+  content: "›";
+  color: rgba(255,255,255,0.15);
+  margin-right: 8px;
+}
+
+.breadcrumbs h2 {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-style: italic !important;
+  font-weight: 400 !important;
+  font-size: 1.75rem !important;
+  color: rgba(255,255,255,0.88) !important;
+  margin: 0 !important;
+}
+
+/* ── Subpage: Inner page ── */
+.inner-page {
+  background: #07090f !important;
+  padding: 44px 0 60px !important;
+}
+
+.inner-page .container {
+  max-width: 680px;
+}
+
+.inner-page p {
+  font-size: 14px;
+  line-height: 1.85;
+  color: rgba(255,255,255,0.45) !important;
+  font-weight: 300;
+  margin-bottom: 18px;
+}
+
+.inner-page h5 {
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  color: #52c97a !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 28px 0 12px !important;
+}
+
+.inner-page h3, .inner-page h4 {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: rgba(255,255,255,0.75) !important;
+}
+
+.inner-page blockquote {
+  border-left: 1px solid rgba(82,201,122,0.35) !important;
+  background: transparent !important;
+  padding: 4px 0 4px 20px !important;
+  margin: 0 0 28px !important;
+}
+
+.inner-page blockquote p {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-size: 18px !important;
+  font-style: italic !important;
+  color: rgba(255,255,255,0.6) !important;
+  line-height: 1.75 !important;
+}
+
+.inner-page a:not(.btn-get-started) {
+  color: #52c97a;
+  text-decoration: none;
+  border-bottom: 0.5px solid rgba(82,201,122,0.3);
+}
+
+.inner-page hr {
+  border-color: rgba(255,255,255,0.06) !important;
+  margin: 32px 0 !important;
+}
+
+/* Page content divider above CTA */
+.inner-page .btn-get-started {
+  margin-top: 36px;
+  display: inline-block;
+}
