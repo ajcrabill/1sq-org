@@ -1,0 +1,308 @@
+/* =============================================================
+   1squint.org — Dark Cosmic Redesign
+   Jade green (#52c97a) on near-black (#07090f)
+   Cormorant Garamond (headings) + DM Sans (body/nav)
+   ============================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=DM+Sans:wght@300;400&display=swap');
+
+:root {
+  --bg: #07090f;
+  --jade: #52c97a;
+  --text: rgba(255,255,255,0.85);
+  --text-dim: rgba(255,255,255,0.4);
+}
+
+/* ---- Base ---- */
+body {
+  background: #07090f !important;
+  color: rgba(255,255,255,0.85) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+/* ---- Links ---- */
+a {
+  color: #52c97a !important;
+}
+a:hover {
+  color: rgba(82,201,122,0.7) !important;
+  text-decoration: none !important;
+}
+
+/* ---- Headings ---- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: rgba(255,255,255,0.88) !important;
+}
+
+p {
+  color: rgba(255,255,255,0.6) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+/* ---- Header / Nav ---- */
+#header {
+  background: #07090f !important;
+  border-bottom: 0.5px solid rgba(255,255,255,0.06) !important;
+  box-shadow: none !important;
+}
+
+#header.header-scrolled {
+  background: #07090f !important;
+  box-shadow: none !important;
+}
+
+/* Logo */
+#header .logo {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-size: 22px !important;
+  font-weight: 400 !important;
+  letter-spacing: 1px !important;
+}
+
+#header .logo a {
+  color: #fff !important;
+  font-family: 'Cormorant Garamond', serif !important;
+  text-decoration: none !important;
+}
+
+#header .logo a span {
+  color: #52c97a !important;
+  font-style: italic !important;
+}
+
+#header .logo img {
+  filter: brightness(0) invert(1);
+}
+
+/* Nav links */
+.navbar a,
+.navbar a:focus {
+  color: rgba(255,255,255,0.4) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 13px !important;
+  letter-spacing: 0.3px !important;
+}
+
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus,
+.navbar li:hover > a {
+  color: #52c97a !important;
+}
+
+/* Navbar dropdown */
+.navbar .dropdown ul {
+  background: #0d0f18 !important;
+  border: 0.5px solid rgba(255,255,255,0.08) !important;
+}
+
+.navbar .dropdown ul a {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+.navbar .dropdown ul a:hover,
+.navbar .dropdown ul .active:hover,
+.navbar .dropdown ul li:hover > a {
+  color: #52c97a !important;
+}
+
+/* Mobile nav */
+.navbar-mobile {
+  background: #07090f !important;
+}
+
+.navbar-mobile ul {
+  background: #07090f !important;
+  border-top: 0.5px solid rgba(255,255,255,0.06) !important;
+}
+
+.navbar-mobile a,
+.navbar-mobile a:focus {
+  color: rgba(255,255,255,0.6) !important;
+  border-bottom: 0.5px solid rgba(255,255,255,0.06) !important;
+}
+
+.navbar-mobile a:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover > a {
+  color: #52c97a !important;
+}
+
+/* Mobile toggle icon */
+.mobile-nav-toggle {
+  color: rgba(255,255,255,0.6) !important;
+}
+
+/* Get Started / Login button */
+.get-started-btn,
+.navbar .getstarted,
+.navbar .getstarted:focus {
+  background: transparent !important;
+  color: #52c97a !important;
+  border: 0.5px solid rgba(82,201,122,0.45) !important;
+  border-radius: 2px !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.5px !important;
+  font-size: 13px !important;
+}
+
+.get-started-btn:hover,
+.navbar .getstarted:hover {
+  background: rgba(82,201,122,0.08) !important;
+  color: #52c97a !important;
+}
+
+/* ---- Hero ---- */
+#hero {
+  background-color: #07090f !important;
+  background-image: none !important;
+}
+
+#hero:before {
+  background: rgba(7,9,15,0.7) !important;
+}
+
+#hero h1 {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-style: italic !important;
+  font-weight: 400 !important;
+  color: rgba(255,255,255,0.88) !important;
+  font-size: 2.1rem !important;
+  line-height: 1.5 !important;
+}
+
+#hero h2 {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-weight: 400 !important;
+  color: rgba(255,255,255,0.45) !important;
+  font-size: 1.2rem !important;
+  line-height: 1.7 !important;
+}
+
+#hero .btn-get-started,
+a.btn-get-started {
+  background: transparent !important;
+  color: #52c97a !important;
+  border: 0.5px solid rgba(82,201,122,0.45) !important;
+  border-radius: 2px !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.5px !important;
+  font-size: 13px !important;
+  padding: 12px 28px !important;
+}
+
+#hero .btn-get-started:hover {
+  background: rgba(82,201,122,0.08) !important;
+  color: #52c97a !important;
+}
+
+/* ---- Sections ---- */
+section,
+.section {
+  background: #07090f !important;
+  color: rgba(255,255,255,0.7) !important;
+}
+
+.section-bg {
+  background: #0a0c13 !important;
+}
+
+.section-title h2 {
+  color: rgba(255,255,255,0.88) !important;
+  font-family: 'Cormorant Garamond', serif !important;
+}
+
+.section-title p {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+/* ---- Cards / Feature Boxes ---- */
+.card,
+.feature-box,
+.info-box,
+.member,
+.portfolio-item .portfolio-info {
+  background: rgba(255,255,255,0.03) !important;
+  border: 0.5px solid rgba(255,255,255,0.08) !important;
+  color: rgba(255,255,255,0.7) !important;
+}
+
+.card-body {
+  background: transparent !important;
+}
+
+/* ---- Breadcrumbs ---- */
+.breadcrumbs {
+  background: #0a0c13 !important;
+  border-bottom: 0.5px solid rgba(255,255,255,0.06) !important;
+  border-top: 0.5px solid rgba(255,255,255,0.06) !important;
+}
+
+.breadcrumbs h2 {
+  color: rgba(255,255,255,0.88) !important;
+  font-family: 'Cormorant Garamond', serif !important;
+}
+
+.breadcrumbs ol li,
+.breadcrumbs ol li a {
+  color: rgba(255,255,255,0.4) !important;
+}
+
+/* ---- Inner pages ---- */
+.inner-page {
+  background: #07090f !important;
+}
+
+/* ---- Footer ---- */
+footer,
+#footer {
+  background: #07090f !important;
+  border-top: 0.5px solid rgba(255,255,255,0.06) !important;
+  color: rgba(255,255,255,0.3) !important;
+}
+
+#footer .footer-top {
+  background: #07090f !important;
+}
+
+#footer .footer-bottom {
+  background: #04050a !important;
+  border-top: 0.5px solid rgba(255,255,255,0.06) !important;
+  color: rgba(255,255,255,0.25) !important;
+}
+
+footer a,
+#footer a {
+  color: rgba(255,255,255,0.3) !important;
+}
+
+footer a:hover,
+#footer a:hover {
+  color: #52c97a !important;
+}
+
+#footer h4 {
+  color: rgba(255,255,255,0.7) !important;
+  font-family: 'Cormorant Garamond', serif !important;
+}
+
+/* ---- Back to top ---- */
+.back-to-top {
+  background: rgba(82,201,122,0.25) !important;
+}
+
+.back-to-top:hover {
+  background: #52c97a !important;
+}
+
+/* ---- Scrollbar ---- */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #07090f; }
+::-webkit-scrollbar-thumb { background: rgba(82,201,122,0.3); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(82,201,122,0.55); }
